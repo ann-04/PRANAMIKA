@@ -1,0 +1,16 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.Projtf" parent="Theme.Material3.DayNight.NoActionBar">
+        <!-- Customize your light theme here. -->
+        <item name="colorPrimary">@color/primary</item>
+        <item name="colorPrimaryVariant">@color/primary</item>
+        <!--Secondary brand color-->
+        <item name="colorSecondary">@color/sec</item>
+        <item name="colorSecondaryVariant">@color/sec</item>
+        <!--Status bar color-->
+        <item name="android:statusBarColor">@color/primary</item>
+        <!-- <item name="colorPrimary">@color/my_light_primary</item> -->
+    </style>
+
+    <style name="Theme.Projtf" parent="Base.Theme.Projtf" />
+</resources>

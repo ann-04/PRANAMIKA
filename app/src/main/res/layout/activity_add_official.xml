@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:padding="16dp">
+
+    <!-- EditText to input the name of an official -->
+    <EditText
+        android:id="@+id/officialNameInput"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="Official Name"
+        android:inputType="textPersonName" />
+
+    <!-- EditText to input the position of an official -->
+    <EditText
+        android:id="@+id/officialPositionInput"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="Official Position"
+        android:inputType="text" />
+
+    <!-- Button to add the official -->
+    <Button
+        android:id="@+id/addOfficialButton"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Add Official" />
+    <Button
+        android:id="@+id/deleteOfficialButton"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Delete Official" />
+
+</LinearLayout>
