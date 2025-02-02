@@ -1,3 +1,3 @@
 Problem Statement - 
 Every citizen depends on their local government officials and public servants to lead harmonious lives. The success of government schemes (e.g. AADHAR) depends on the efficiency and effectiveness of the public officials assigned to execute these schemes. However, this responsibility is abused by public servants, who can be negligent, rude, dishonest, and indulge in corrupt practices (asking for bribes). There is an urgent need to hold these officials accountable on a public platform, for the common man to see. So we developed a solution, Pranamika, where the common man can 
-review and rate local government officials.These ratings and reviews are public and shareable.
+review and rate local government officials.
